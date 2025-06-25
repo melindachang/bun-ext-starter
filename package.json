@@ -1,5 +1,5 @@
 {
-  "name": "extension-starter",
+  "name": "bun-ext-starter",
   "private": true,
   "version": "0.1.0",
   "type": "module",
